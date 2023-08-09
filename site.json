@@ -1,0 +1,8 @@
+{
+  "siteId": 1957,
+  "namespace": "deco-sites/abri-meuarmario",
+  "imports": [
+    "$live/live.gen.ts",
+    "deco-sites/std/live.gen.ts"
+  ]
+}
