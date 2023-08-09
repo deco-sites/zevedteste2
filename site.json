@@ -1,6 +1,6 @@
 {
-  "siteId": 1957,
-  "namespace": "deco-sites/abri-meuarmario",
+  "siteId": 2054,
+  "namespace": "deco-sites/zevedteste2",
   "imports": [
     "$live/live.gen.ts",
     "deco-sites/std/live.gen.ts"
